@@ -1,0 +1,20 @@
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Node
+node_modules/
+.env
+.env.local
+.env.*.local
+
+# OS
+.DS_Store
+*.swp
+*.swo
+
+# IDE
+.vscode/
+*.code-workspace
